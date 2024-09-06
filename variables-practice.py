@@ -44,6 +44,9 @@ print(book_price)
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
 
-print('first_name')
+first_name = 'Ethan Lawrence'
+city = 'Traverce City'
+age = 17
+print(first_name)
 print(city)
 print(age)
