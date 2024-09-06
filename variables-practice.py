@@ -21,7 +21,7 @@
 # Define a variable called greeting and assign it a string value you'd use to greet someone (Good morning, Good afternoon, etc.)
 # Use the print function to print the value of one of three variables you created in Part 1
 school = 'Career Tech'
-favorite_singer = "singerName"
+favorite_singer = "Taylor Swift"
 greeting = 'Greetings!'
 print(school)
 
