@@ -1,6 +1,8 @@
-# Mike Jones
-# 04 SEP 2024
+# Ethan Lawrence
+# 06 SEP 2024
 # Variables Practice
+
+# This is a comment block!
 
 # Demonstrate in this script that you know how to:
 # add a comment block to the top of your Python script
@@ -19,6 +21,9 @@
 # Define a variable called greeting and assign it a string value you'd use to greet someone (Good morning, Good afternoon, etc.)
 # Use the print function to print the value of one of three variables you created in Part 1
 school = 'Career Tech'
+favorite_singer = "singerName"
+greeting = 'Greetings!'
+print(school)
 
 
 
@@ -29,6 +34,8 @@ school = 'Career Tech'
 # Use the print function to print the value of one of three variables you created in Part 2
 my_age = 26
 conversion_factor = 2.54
+book_price = 20.99
+print(book_price)
 
 # Part 3 / Working with the print ( ) Function
 # Create three different variables, one for each piece of data described below
