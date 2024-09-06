@@ -24,6 +24,10 @@ school = 'Career Tech'
 favorite_singer = "Taylor Swift"
 greeting = 'Greetings!'
 print(school)
+print('Career Tech')
+print("Career Tech")
+
+print("Career Tech")
 
 
 
