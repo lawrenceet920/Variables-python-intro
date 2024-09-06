@@ -18,8 +18,8 @@ last_name = "Barlow" # You can also use a pair of double quotes to assign a stri
 age = 17
 
 # Predict the output
-print(f'{first_name} is {age} years old.')
-print(f'The new student from Bellaire is {first_name} {last_name}, right?')
+print(f'{first_name} is {age} years old.') # line will read: Melissa is 17 years old.
+print(f'The new student from Bellaire is {first_name} {last_name}, right?') # line will read: The new student from Bellaire is Melissa Barlow, right?
 
 
 
